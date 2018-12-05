@@ -1,3 +1,7 @@
+#Summary
+Person re-identification is the process of associating images of the same person which is used for image retrieval,
+given a query or person-of-interest. In this project, we used ResNet50 and DenseNet121 deep learning models to achieve the preson re ID. We used a combination of Triplet loss and Softmax loss to improve the accuracy. We used Random erasing as a data augmentation technique to enhance the data set.
+
 # Results
 
 Model: ResNet50
